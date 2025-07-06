@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Post sobre Assunto Incrível</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0056b3;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .back-link {
+            margin-top: 20px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+     <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Captulo_Extra__Apenas_a_Lmina_POV_Leopoldina_Teodem_0"></a>Capítulo Extra — “Apenas a Lâmina” POV: Leopoldina Teodem</h1>
+<p class="has-line-data" data-line-start="3" data-line-end="25">O amanhecer veio pálido, e o frio mordia as pontas dos dedos, mesmo sob as luvas finas. A névoa se acumulava nos degraus de pedra do pátio alto, onde apenas o estandarte de Meestris se movia com alguma vida. Cinza sobre prata. Um olho fechado.<br>
+Ao centro do pátio, o homem jazia de joelhos. Os pulsos presos por correntes de prata encantada. Tinha cabelos escuros, a barba desfeita, e vestia parte da armadura cerimonial dos Cavaleiros de Kiyori. O elmo estava a seus pés, como uma lágrima de ferro abandonada.<br>
+O povo estava presente. Soldados, nobres, clérigos e senhores de pequeno poder. Estavam ali para ver a princesa cumprir a lei. Estavam ali para ver se ela fraquejaria.<br>
+Leopoldina desceu os degraus lentamente. A capa longa arrastava-se no chão — prata pérola, orlada de fios negros. Trazia uma adaga de lâmina curva, curta, cerimonial, mas não menos afiada. Seus olhos estavam cobertos por um fino tule escuro, e mesmo assim, todos sentiam que ela os via.<br>
+— Vocês conhecem o nome dele — disse a voz do arauto. — Dagnor Val e’Kiran. Filho de Senra. Cavaleiro consagrado pela Ordem de Lumes Antigos.<br>
+Alguns murmuraram.<br>
+— Foi acusado de abandonar seu posto na Vigília Norte, desobedecer ordens diretas de conselho e colocar em risco o sigilo da missão. Capturado ao tentar fugir da jurisdição de Meestris. Seu crime: deserção.<br>
+Leopoldina parou a três passos dele. O homem não chorava. Estava pálido como os muros, mas ereto, olhos fixos nela. Os olhos de quem não pedia clemência, mas também não se desculpava.<br>
+— Tinha uma esposa em Kirantha — disse uma voz no meio da multidão. Ninguém respondeu. Ninguém ergueu a voz.<br>
+Leopoldina retirou o tule do rosto. O frio mordeu seus olhos como navalha.<br>
+— Pela lei de Meestris, pela ordem do Conselho, e pelo peso da palavra dada, a sentença é a morte. — Sua voz era firme, sem pressa. — Eu a ditarei. E eu a cumprirei.<br>
+Um murmúrio. Mas ninguém se moveu.<br>
+Ela se ajoelhou diante dele, levando a adaga até o ponto exato abaixo do queixo, onde a carne encontra o osso. Uma brisa tocou o pátio, e os estandartes pararam por um segundo, como se o mundo prendesse a respiração.<br>
+— Alguma última palavra? — perguntou ela.<br>
+Ele hesitou. Olhou-a nos olhos, e por um instante parecia que sorriria.<br>
+— Espero que o mundo seja mais justo contigo do que foi comigo — disse, por fim.<br>
+Leopoldina inclinou levemente a cabeça. A lâmina moveu-se com precisão.<br>
+Não houve grito. Apenas um som seco, e o peso do corpo tombando para o lado, sem deselegância. Um filete de sangue caiu entre as pedras, e a névoa o tragou.<br>
+Ela se ergueu. Limpou a lâmina com um lenço branco. Entregou a adaga a um oficial.<br>
+E antes de se virar, disse:<br>
+— A lei é fria. Mas não é cega. E hoje, ela viu.<br>
+E desceu os degraus de volta, com o mesmo ritmo de antes. Sem pressa. Sem pressão. A multidão abriu caminho, e o vento voltou a soprar.</p>
+
+        <a href="../index.html" class="back-link">← Voltar para a página inicial</a>
+    </div>
+</body>
+</html>
